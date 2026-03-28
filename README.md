@@ -19,3 +19,6 @@ Objective is further divided into 4 parts:-
 
 ## Dataset used
 <a href="https://github.com/aditi-975/Data-Analysis-Dashboard/blob/main/Data%20Analysis%20dataset.csv">Dataset</a> 
+
+## Dashboard
+<a href="https://github.com/aditi-975/Data-Analysis-Dashboard/blob/main/Dashboard.png">Dashboard</a> 
